@@ -1,0 +1,21 @@
+{
+  "author": "Mihai Tomescu <matomesc@gmail.com> (https://github.com/matomesc)",
+  "name": "adt",
+  "description": "common abstract data types implementations",
+  "version": "0.0.0",
+  "homepage": "https://github.com/matomesc/adt",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:matomesc/adt"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha -R spec"
+  },
+  "engines": {
+    "node": "~0.6.10"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
